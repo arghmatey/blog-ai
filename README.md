@@ -41,6 +41,6 @@ A Laravel built web app that generates AI-written blog posts. Users can enter a 
    I would store generated drafts in a database so users could revist reference them.
 
 3. <b>What’s one thing you learned about Laravel that you hadn’t used before?</b>  
-   Seperation of AI logic as outlined in the module was new for me in Laravel. It gave a peek into scalability and cleanliness of the app's logic.
+   Seperation of AI logic as outlined in the module was new for me in Laravel. It gave a peek into scalability and future cleanliness of the app's logic.
 
-![img](storage/app/public/app_example.png)
+![img](/public/app_example.png)

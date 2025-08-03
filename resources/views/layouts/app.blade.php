@@ -6,7 +6,7 @@
 </head>
 <body>
     <nav class="navbar navbar-dark bg-dark p-3">
-        <a class="navbar-brand text-white" href="#">AI Blog Assistant</a>
+        <a class="navbar-brand text-white" href="/ai-form">AI Blog Assistant</a>
     </nav>
     <div class="container mt-4">
         @yield('content')
